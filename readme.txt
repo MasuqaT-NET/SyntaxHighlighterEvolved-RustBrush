@@ -3,7 +3,7 @@ Contributors: MasuqaT
 Tags: Rust, SyntaxHighlighting
 Requires at least: 2.7
 Tested up to: 4.7.3
-Stable tag: 1.0
+Stable tag: 1.0.0
 License: MIT
 
 Rust Brush for SyntaxHighlighter Evolved plugin.
